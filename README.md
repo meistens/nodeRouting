@@ -6,7 +6,7 @@ It covers;
 
 - Creating a server and a function to 'listen';
 - Routing and rerouting using a switch-case statement;
-- Implementing status codes (for some reason, routes and reroutes throws a blank page and illegal on the terminal...);
+- Implementing status codes (for some reason, routes and reroutes throws a blank page and illegal on the terminal without em...);
 
 All with NodeJs (and the rest as seen on the heading).
 
