@@ -1,6 +1,6 @@
 # Basic Routing With NodeJs and No Dependencies (The Horror 😱)
 
-That aside, this is a task given and done by [The Zuri Team](www.14g.zuriboard.com).
+That aside, this is a task given and done by The Zuri Team.
 
 It covers;
 
