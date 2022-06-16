@@ -4,13 +4,16 @@ That aside, this is a task given and done by The Zuri Team.
 
 It covers;
 
-- Creating a server and a function to 'listen';
-- Routing and rerouting using a switch-case statement;
-- Implementing status codes (for some reason, routes and reroutes throws a blank page and illegal on the terminal without em...);
+- Creating a server and a function for request and response;
+- Writing another function to 'listen' for/catch requests made by the server;
+- Using the filesystem to select a file to route (using the http module);
+- Routing and rerouting using a switch-case statement (if-else statement was confusing to use in this scenario);
+- Implementing status codes;
+- And bunch of stuff the docs on NodeJs site covers...
 
-All with NodeJs (and the rest as seen on the heading).
+To run the server, open your terminal, type **node app**.
 
-To run the server, open your terminal, type **node app** and voila!
+If you see a message on your terminal, starting with 'Mein Freund....', it means it works!
 
 ## Available Routes
 
@@ -21,4 +24,4 @@ Routes availabe are;
 - \about
 - \contact
 
-Going beyond specified routes won't get you anything but a depressing 404 page (yeah, would've geeked out on the pages but I suck at web designs...)
+Going beyond specified routes won't get you anything but a depressing 404 page (yeah, would've geeked out on the pages but I suck at web designs and use a shitty laptop...)
